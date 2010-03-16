@@ -1,4 +1,5 @@
 {
+    "uid": "http://registry.pinf.org/cadorn.org/github/commonjs-utils/",
 	"name": "commonjs-utils",
 	"author": "Kris Zyp",
 	"dependencies": [],
@@ -10,5 +11,11 @@
 	],
 	"githubName": "commonjs-utils",
 	"type": "zip",
-	"location": "http://github.com/kriszyp/commonjs-utils/zipball/master"
+	"location": "http://github.com/kriszyp/commonjs-utils/zipball/master",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git://github.com/cadorn/commonjs-utils.git"
+        }
+    ]
 }
